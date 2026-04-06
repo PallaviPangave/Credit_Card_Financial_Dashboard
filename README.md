@@ -21,3 +21,7 @@ The dataset includes customer details, transaction data, and card category infor
 
 # Conclusion
 This project helped in understanding how customer behavior impacts revenue and how businesses can target the right segment for growth.
+
+# Dashboard Screenshots
+[Transaction Dashboard] (Credit Card Transaction Report SS.png)
+[Customer Dashboard] (Credit Card Customer Report SS.png)
